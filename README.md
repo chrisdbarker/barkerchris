@@ -14,13 +14,13 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/java.png" />]
-[<img align="left" alt="Kotlin" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/kotlin.png" />]
-[<img align="left" alt="PHP" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/php.png" />]
-[<img align="left" alt="HTML" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/html.png" />]
-[<img align="left" alt="CSS" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/css.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/vscode.png" />]
-[<img align="left" alt="InteliiJ" width="26px" src="https://github.com/barkerchris/barkerchris/blob/master/images/intellij.png" />]
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/java.png"></code>
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/kotlin.png"></code>
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/php.png"></code>
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/html.png"></code>
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/css.png"></code>
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/vscode.png"></code>
+<code><img width="26" src="https://raw.githubusercontent.com/barkerchris/barkerchris/master/images/intellij.png"></code>
 
 <br />
 <br />
