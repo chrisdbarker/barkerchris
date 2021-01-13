@@ -7,8 +7,8 @@
 
 ## Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Chris Barker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chris Barker | Website" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Chris Barker | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -25,5 +25,5 @@
 <br />
 <br />
 
-[website]: https://
+[website]: https://barkerchris.github.io/
 [linkedin]: https://www.linkedin.com/in/christopherdavidbarker/
