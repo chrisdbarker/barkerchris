@@ -1,9 +1,6 @@
 ## Hi there, I'm Chris
 
-- 3rd year Computer Science student
-- Swansea Unviersity
-- Looking for a graduate role
-
+- Current Associate Technology Specialist at IBM
 
 ## Connect with me:
 
@@ -25,5 +22,5 @@
 <br />
 <br />
 
-[website]: https://barkerchris.github.io/
+[website]: https://chrisdbarker.github.io/
 [linkedin]: https://www.linkedin.com/in/christopherdavidbarker/
